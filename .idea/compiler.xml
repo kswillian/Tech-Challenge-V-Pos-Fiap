@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-shopping" />
+        <module name="ms-auth" />
+        <module name="ms-payment" />
+        <module name="ms-items" />
+        <module name="ms-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ms-auth" target="17" />
+      <module name="ms-gateway" target="17" />
+      <module name="ms-items" target="17" />
+      <module name="ms-payment" target="17" />
+      <module name="ms-shopping" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ms-auth" options="-parameters" />
+      <module name="ms-gateway" options="-parameters" />
+      <module name="ms-items" options="-parameters" />
+      <module name="ms-payment" options="-parameters" />
+      <module name="ms-shopping" options="-parameters" />
+    </option>
+  </component>
+</project>

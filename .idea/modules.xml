@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tech-Challenge-V-Pos-Fiap.iml" filepath="$PROJECT_DIR$/.idea/Tech-Challenge-V-Pos-Fiap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-auth/ms-auth/ms-auth.iml" filepath="$PROJECT_DIR$/ms-auth/ms-auth/ms-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-gateway/ms-gateway/ms-gateway.iml" filepath="$PROJECT_DIR$/ms-gateway/ms-gateway/ms-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-items/ms-items/ms-items.iml" filepath="$PROJECT_DIR$/ms-items/ms-items/ms-items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-payment/ms-payment/ms-payment.iml" filepath="$PROJECT_DIR$/ms-payment/ms-payment/ms-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-shopping/ms-shopping/ms-shopping.iml" filepath="$PROJECT_DIR$/ms-shopping/ms-shopping/ms-shopping.iml" />
+    </modules>
+  </component>
+</project>
